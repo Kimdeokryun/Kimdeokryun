@@ -26,7 +26,9 @@ Here are some ideas to get you started:
  
 </div>
 
-### Platforms & Languages
+### 🛠️ Languages & Tools
+
+<br/>
 
 ####  :clipboard: Once I've Used 
  
@@ -45,7 +47,7 @@ Here are some ideas to get you started:
  <br/>
 <br/>
 
-####  💪 I've Known
+####  📄 I've Known
  <br/>
  
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -54,12 +56,25 @@ Here are some ideas to get you started:
 
 
 <br/>
+
+#
+
 <br/>
 
-# 
+<div align="center">
+
+### 🎖️ Baekjoon Solved Rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaejr)](https://solved.ac/rlaejr/)
 
-  <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimdeokryun&show_icons=true&theme=dark)](https://github.com/Kimdeokryun/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdeokryun&layout=compact)](https://github.com/Kimdeokryun/github-readme-stats)
+### 🏁 GitHub Stats
+ 
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimdeokryun&show_icons=true&theme=dark)
+
+
+### 🧰 Most Used Languages
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdeokryun&layout=compact&theme=dark)
+
+</div>
