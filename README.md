@@ -47,7 +47,7 @@ Here are some ideas to get you started:
  <br/>
 <br/>
 
-####  📄 I've Known
+####  📄 I've Known & Learning now
  <br/>
  
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
